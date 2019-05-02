@@ -9,12 +9,12 @@
 CC=gcc
 CFLAGS=-O -Wall
 
-all: sl
+all: abc
 
-sl: sl.c sl.h
-	$(CC) $(CFLAGS) -o sl sl.c -lncurses
+abc: abc.c abc.h
+	$(CC) $(CFLAGS) -o abc abc.c -lncurses
 
 clean:
-	rm -f sl
+	rm -f abc
 
 distclean: clean

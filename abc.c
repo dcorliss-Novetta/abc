@@ -1,4 +1,11 @@
 /*========================================
+ *    abc.c: ABC version 1.00
+ *        Based on SL
+ *                  Toyoda Masashi
+ *        Modified by
+ *                  Danny Corliss
+ *        Last Modifiied: 2019/02/20
+ *
  *    sl.c: SL version 5.03
  *        Copyright 1993,1998,2014-2015
  *                  Toyoda Masashi
@@ -6,6 +13,8 @@
  *        Last Modified: 2014/06/03
  *========================================
  */
+/* abc version 1.00 : Convert SL to ABC to display Always Be Coding          */
+/*                                              by Danny Corliss  2019/02/20 */
 /* sl version 5.03 : Fix some more compiler warnings.                        */
 /*                                              by Ryan Jacobs    2015/01/19 */
 /* sl version 5.02 : Fix compiler warnings.                                  */
@@ -41,7 +50,7 @@
 #include <curses.h>
 #include <signal.h>
 #include <unistd.h>
-#include "sl.h"
+#include "abc.h"
 
 int add_abc(int x);
 void option(char *str);
