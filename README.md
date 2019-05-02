@@ -1,8 +1,7 @@
 ABC: Cure your bad habit of mistyping, and remember to Always Be Coding
 =======================================
 
-Always Be Coding runs across your terminal when you type "sl" as
-you meant to type "ls". It's just a joke command, and not useful at
+Always Be Coding runs across your terminal when you type "abc". It's just a joke command, and not useful at
 all.
 
 ABC is a variant of SL, originally created by Toyoda Masashi (see below).
