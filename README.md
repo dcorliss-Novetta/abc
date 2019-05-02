@@ -1,4 +1,4 @@
-ABC: Cure your bad habit of mistyping, and remember to Always Be Coding
+ABC: Remember to Always Be Coding
 =======================================
 
 Always Be Coding runs across your terminal when you type "abc". It's just a joke command, and not useful at
